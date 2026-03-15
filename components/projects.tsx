@@ -23,12 +23,12 @@ export default function Projects() {
       liveLink: "https://www.seneca-lab.com/",
     },
     {
-      title: "Rava AI",
+      title: "Humanaid",
       description:
-        "Agentic AI-powered GTM platform for founders and growth-stage teams. Acts as your GTM co-founder — delivering a complete system that learns, adapts, and executes from idea validation to market traction.",
-      tags: ["AI Agents", "GTM", "Startups", "Automation"],
+        "AI-powered career transition platform for workers displaced by automation. Translates your skills, builds a precision roadmap, and deploys an autonomous job agent that searches, applies, and books interviews while you learn.",
+      tags: ["AI", "Career Transition", "Job Search", "Automation"],
       codeLink: null,
-      liveLink: "https://ravaai.web.app/",
+      liveLink: "https://humanaid.xyz/",
     },
     {
       title: "BeReach",
