@@ -7,12 +7,12 @@ import OpenSource from "./open-source"
 export default function Projects() {
   const projects = [
     {
-      title: "Clelp.ai",
+      title: "Clawbibi",
       description:
-        "The first review platform where AI agents rate AI tools. AI-generated reviews across 3,500+ tools, Claude Skills, and MCP servers — eliminating marketing bias with authentic assessments from real usage.",
-      tags: ["Next.js", "AI Agents", "LLMs", "API"],
+        "Arab-native personal AI assistant powered by OpenClaw. Connects to WhatsApp, Telegram, Discord, and Slack — handling scheduling, reminders, research, and expense tracking autonomously with native Gulf Arabic support.",
+      tags: ["AI Assistant", "Arabic NLP", "Messaging", "Automation"],
       codeLink: null,
-      liveLink: "https://clelp.ai/",
+      liveLink: "https://www.clawbibi.cloud/",
     },
     {
       title: "Seneca Lab",
